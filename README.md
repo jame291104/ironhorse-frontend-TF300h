@@ -41,5 +41,8 @@ Para ejecutar las pruebas, utiliza el siguiente comando:
 ng test
 ```
 
+## Autor
+Jesús Morán Espinoza
+
 ## Evidencia del resultado de las pruebas
 ![Texto alternativo](/Frontend/public/assets/Pruebas%20Frontend%20exitosas%20captura.png)
